@@ -1,0 +1,3 @@
+[bandit]
+targets = toolbox6/
+skips = B101

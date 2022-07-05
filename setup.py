@@ -40,7 +40,7 @@ setup(
         "structlog>=20.1.0",
         # "boto3>=1.14.63",
         # "s3fs>=0.5.1",
-        "ujson==4.0.1",
+        "ujson==5.4.0",
     ],
     entry_points={},
 )
